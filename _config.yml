@@ -102,8 +102,8 @@ analytics:
 # Site Author
 author:
   name             : "youthangno"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  avatar           : ##프로필 이미지
+  bio              : "person"
   location         : "South korea"
   email            :
   links:
