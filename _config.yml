@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Youthangno"
-  avatar           : ##프로필 이미지
+  avatar           : "/assets/_images/140px-Unofficial_JavaScript_logo_2.svg"
   bio              : "노트"
   location         : "South korea"
   email            :
