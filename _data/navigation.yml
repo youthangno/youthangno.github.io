@@ -2,11 +2,11 @@
 main:
   - title: "JavaScript"
     url: https://youthangno.github.io
-  - title: "Guide"
+  - title: "React"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "영화"
+    url: /_posts/movie
+  - title: "blah blah"
+    url: /_posts/blah blah
   # - title: "Sitemap"
   #   url: /sitemap/
