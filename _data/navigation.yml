@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "JavaScript"
-    url: https://youthangno.github.io
+    url: /_posts/2021/javascript
   - title: "React"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+    url: /_posts/2021/react
   - title: "영화"
     url: /_posts/movie
   - title: "blah blah"
