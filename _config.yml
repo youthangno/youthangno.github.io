@@ -102,9 +102,9 @@ analytics:
 # Site Author
 author:
   name             : "Youthangno"
-  avatar           : "/_images/140px-Unofficial_JavaScript_logo_2.svg"
+  avatar           : "/_images/140px-Unofficial_JavaScript_logo_2.svg.png"
   bio              : "노트"
-  location         : "South korea"
+  location         : ""
   email            :
   links:
     - label: "Email"
