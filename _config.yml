@@ -24,7 +24,7 @@ description              : "솔직한 이야기"
 url                      : "https://youthangno.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/youthangno.github.io/_images/140px-Unofficial_JavaScript_logo_2.svg"
+teaser                   : "/assets/_images/140px-Unofficial_JavaScript_logo_2.svg"
 logo                     : 상단메뉴바에 사이트 로고
 masthead_title           : "START" # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
