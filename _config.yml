@@ -24,13 +24,13 @@ description: "솔직한 이야기"
 url: "https://youthangno.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser: "/_images/140px-Unofficial_JavaScript_logo_2.svg.png"
-logo: "/_images/140px-Unofficial_JavaScript_logo_2.svg.png"
+teaser: "/assets/images/140px-Unofficial_JavaScript_logo_2.svg.png"
+logo: "/assets/images/140px-Unofficial_JavaScript_logo_2.svg.png"
 masthead_title: "blah blah"
 # breadcrumbs            : false # true, false (default)
 words_per_minute: 200
 comments:
-  provider: # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider: # 'false (default)', "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
     shortname: # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
