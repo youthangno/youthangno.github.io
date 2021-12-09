@@ -16,7 +16,7 @@ minimal_mistakes_skin: "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon
 
 # Site Settings
 locale: "ko-KR"
-title: "asdfasdfasdfasdf"
+title: "blah_blah"
 title_separator: ""
 subtitle: # site tagline that appears below site title in masthead
 name: "youthangno"
@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name: "Youthangno"
-  avatar: "/_images/140px-Unofficial_JavaScript_logo_2.svg.png"
+  avatar: "/assets/images/140px-Unofficial_JavaScript_logo_2.svg.png"
   bio: "노트"
   location: ""
   email:
