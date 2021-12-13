@@ -103,7 +103,7 @@ author:
   name: "Youthangno"
   avatar: "/assets/images/140px-Unofficial_JavaScript_logo_2.svg.png"
   bio: "노트"
-  location: ""
+  # location: ""
   email:
   links:
     - label: "Email"
