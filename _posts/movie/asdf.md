@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "영화"
-categories: movie
+title: "1st momomovie"
+categories: mmmmmovie
 tags: [영화, movie]
 ---
 

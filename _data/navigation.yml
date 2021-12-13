@@ -10,8 +10,8 @@ main:
     url: /movie/
   - title: "blah blah"
     url: /blahblah/
-  # - title: "Tag"
-  #   url: /tags/
+  - title: "Tag"
+    url: /tags/
 
   # - title: "Sitemap"
   #   url: /sitemap/
