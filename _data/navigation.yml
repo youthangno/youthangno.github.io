@@ -2,16 +2,8 @@
 main:
   - title: "Category"
     url: /categories/
-  - title: "JavaScript"
-    url: /javascript/
-  - title: "React"
-    url: /react/
-  - title: "영화"
-    url: /movie/
-  - title: "blah blah"
-    url: /blahblah/
-  - title: "Tag"
-    url: /tags/
+  # - title: "Tag"
+  #   url: /tags/
 
   # - title: "Sitemap"
   #   url: /sitemap/
