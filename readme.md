@@ -4,7 +4,8 @@ Jekyll theme인 minimal-mistakes를 사용합니다. (https://github.com/mmistak
 사용법에 대한 설명을 저도 보고, 다른 분들도 보시라고 적어놓습니다.
 변경사항이 있거나, 추가되는것이 있다면, 차례대로 기록해 두겠습니다.
 
-```
+```javascript
+//파일경로
 _post/file.md
 
 layout: single        //포스트를 클릭했을때, 이 페이지만 뜨게 하겠다.
