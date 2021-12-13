@@ -8,16 +8,16 @@ main:
   #   url: /search/
 
 
-docs:
-  - title: '목차'
-    children:
-      -title: "Category"
-        url: /categories/
+# docs:
+#   - title: '목차'
+#     children:
+#       -title: "Category"
+#         url: /categories/
 
-  - title: '목차'
-    children:
-      -title: "JavaScript"
-        url: /javascript/
+#   - title: '목차'
+#     children:
+#       -title: "JavaScript"
+#         url: /javascript/
   
   # - title: "Tag"
   #   url: /tags/
