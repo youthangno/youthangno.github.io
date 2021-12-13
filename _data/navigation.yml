@@ -1,12 +1,14 @@
 # main links
 main:
+  - title: "Category"
+    url: /categories/
   - title: "JavaScript"
-    url: /javascript
+    url: /javascript/
   - title: "React"
-    url: /react
+    url: /react/
   - title: "영화"
-    url: /movie
+    url: /movie/
   - title: "blah blah"
-    url: /blahblah
+    url: /blahblah/
   # - title: "Sitemap"
   #   url: /sitemap/
