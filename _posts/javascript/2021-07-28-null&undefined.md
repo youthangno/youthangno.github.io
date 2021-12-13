@@ -4,6 +4,7 @@ title: "null & undefined"
 categories: javascript
 tag: javascript
 toc: true
+author_profile: false
 ---
 
 \# 05. null & undefined

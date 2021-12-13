@@ -1,11 +1,24 @@
 # main links
 main:
   - title: "Home"
-    url:
-
+    url: "https://youthangno.github.io/"
   - title: "Category"
     url: /categories/
+  # - title: "Search"
+  #   url: /search/
 
+
+docs:
+  - title: '목차'
+    children:
+      -title: "Category"
+        url: /categories/
+
+  - title: '목차'
+    children:
+      -title: "JavaScript"
+        url: /javascript/
+  
   # - title: "Tag"
   #   url: /tags/
 
