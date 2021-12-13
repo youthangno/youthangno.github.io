@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: "https://youthangno.github.io/"
+    url: /index.html
   - title: "Category"
     url: /categories/
   # - title: "Search"
