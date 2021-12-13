@@ -1,12 +1,12 @@
 # main links
 main:
   - title: "JavaScript"
-    url: /_posts/2021/javascript
+    url: /javascript
   - title: "React"
-    url: /_posts/2021/react
+    url: /react
   - title: "영화"
-    url: /_posts/movie
+    url: /movie
   - title: "blah blah"
-    url: /_posts/blah blah
+    url: /blahblah
   # - title: "Sitemap"
   #   url: /sitemap/
