@@ -14,15 +14,6 @@ categories: categoryName; //카테고리이름
 tag: tagName; //태그 명
 toc: true; //오른쪽 사이드 바를 띄우겠다.
 author_profile: false; //포스트를 볼때, 왼쪽 사이드바 프로필을 없애겠다.
-sidebar: nav: "docs"; //포스트를볼때, 왼쪽 사이드바를 프로필 대신 navigation.yml 안에 docs 로 연결해주겠다.
-search: false; //해당 포스트를 찾지 못하게 하겠다. 지우면 검색가능.
-
-layout: single; //포스트를 클릭했을때, 이 페이지만 뜨게 하겠다.
-title: "your title"; //포스트 제목
-categories: categoryName; //카테고리이름
-tag: tagName; //태그 명
-toc: true; //오른쪽 사이드 바를 띄우겠다.
-author_profile: false; //포스트를 볼때, 왼쪽 사이드바 프로필을 없애겠다.
 search: false; //해당 포스트를 찾지 못하게 하겠다. 지우면 검색가능.
 ```
 
