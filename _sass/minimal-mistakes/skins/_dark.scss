@@ -11,7 +11,8 @@ $primary-color: #ff006a !default;
 
 $border-color: mix(#fff, $background-color, 20%) !default;
 
-$code-background-color: mix(#000, $background-color, 15%) !default;
+$code-background-color: rgb(26, 25, 25) !default;
+// $code-background-color: mix(#000, $background-color, 15%) !default;
 
 $code-background-color-dark: rgb(26, 25, 25) !default;
 // $code-background-color-dark: mix(#000, $background-color, 20%) !default;
