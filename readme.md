@@ -37,3 +37,13 @@ _sass/minimal-mistakes.scss
 ```
 <span style="color:yellow">노란 글씨입니다.</span>
 ```
+
+```
+powershell 깃허브 폴더 안으로 들어가서
+
+$ bundle exec jekyll serve
+
+라고 쳐 준뒤, 로컬 주소 복사!
+그리고 수정 후 F5로 리프레시 해주면 실시간 변경을 볼 수 있다.
+
+```
