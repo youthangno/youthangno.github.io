@@ -34,4 +34,6 @@ _sass/minimal-mistakes.scss
 
 포스트에 글에 색깔 넣기
 
+```
 <span style="color:yellow">노란 글씨입니다.</span>
+```
