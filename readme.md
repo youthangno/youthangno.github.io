@@ -15,7 +15,7 @@ title: "your title"; //포스트 제목
 categories: categoryName; //카테고리이름
 tag: tagName; //태그 명
 toc: true; //오른쪽에 포스트별로 목차 사이드 바를 띄우겠다.
-toc_sticky: true  // 마우스 스크롤과 함께 내려갈 것인지 설정
+toc_sticky: true  // 오른쪽 목차 사이드 바가 마우스 스크롤과 함께 붙어 내려갈 것인지 설정
 author_profile: false; //포스트를 볼때, 왼쪽 사이드바 프로필을 없애겠다.
 search: false; //해당 포스트를 찾지 못하게 하겠다. 지우면 검색가능.
 ---
